@@ -16,7 +16,7 @@
 
 #### 🏆 GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=Afaandii)
+[![trophy](https://github-trophies.vercel.app/?username=Afaandii&theme=onedark)](https://github.com/Afaandii/github-trophies)
 
 #### 🔝 Top Contributed Repo
 
@@ -36,6 +36,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afaandii/Afaandii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Afaandii/Afaandii/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
 
