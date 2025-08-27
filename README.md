@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Afaandii.Afaandii&"  />
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Afaandii)
+
 </div>
 
 ## 👨🏻‍💻 About Me:
