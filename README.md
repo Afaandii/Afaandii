@@ -16,7 +16,7 @@
 
 - 💻 Currently I work with **Laravel, React, Svelte** and for database with **PostgreSQL or MySQL**
 - 🎯 Goal: Build impactful apps that solve real-world problems
-- ⚡ Fun fact: I enjoy coding at night 🌙 and coffee keeps me alive ☕
+- ⚡ Fun fact: I enjoy coding at night 🌙 and coffee keeps me going ☕until 2am
 
 ---
 
