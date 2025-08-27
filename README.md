@@ -62,9 +62,3 @@
 </picture>
 
 ###
-
-###
-
-<img src="https://raw.githubusercontent.com/Afaandii/Afaandii/output/snake.svg" alt="Snake animation" />
-
-###
