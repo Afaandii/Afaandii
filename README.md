@@ -14,7 +14,7 @@
 
 ### Hii 👋 My name is Ahmad Afandi and I'm a Web Developer, from Indonesian
 
-- 💻 I’m currently working with **Laravel, React, and PostgreSQL Or MySQL**
+- 💻 Currently I work with **Laravel, React, Svelte** and for database with **PostgreSQL or MySQL**
 - 🎯 Goal: Build impactful apps that solve real-world problems
 - ⚡ Fun fact: I enjoy coding at night 🌙 and coffee keeps me alive ☕
 
