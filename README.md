@@ -22,7 +22,7 @@
 
 ### 🌐 Social Media:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afandiii._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Afaanndiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmad.afandi.dev@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ahmad-afandii)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afandiii._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Afaanndiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmad.afandi.dev@gmail.com) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ahmad-afandii)
 
 ---
 
