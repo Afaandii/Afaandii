@@ -14,7 +14,7 @@
 
 ### Hii 👋 My name is Ahmad Afandi and I'm a Web Developer
 
-- 💻 Currently I work with **Laravel, React, Next, CodeIgniter And Go** and for database with **PostgreSQL or MySQL**
+- 💻 Currently I work with **PHP, Go, Laravel, React, Next, CodeIgniter** and for database with **PostgreSQL or MySQL**
 - 🎯 Goal: Build impactful apps that solve real-world problems
 - ⚡ Fun fact: I enjoy coding at night 🌙 and coffee keeps me going ☕until 2am
 
