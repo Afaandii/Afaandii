@@ -8,7 +8,7 @@
 
 ### Hii 👋 My name is Ahmad Afandi and I'm a Web Developer
 
-- 💻 Currently I work with **PHP, Go, Laravel, React, Next, CodeIgniter** and for database with **PostgreSQL or MySQL**
+- 💻 Currently I work with **TypeScript,PHP, Go, Laravel, React, Next, CodeIgniter** and for database with **PostgreSQL or MySQL**
 - 🎯 Goal: Build impactful apps that solve real-world problems
 - ⚡ Fun fact: I enjoy coding at night 🌙 and coffee keeps me going ☕until 2am
 
@@ -20,9 +20,6 @@
 ![express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2 align="left">🎮 Play Games With Me</h2>
 
 ###
 
