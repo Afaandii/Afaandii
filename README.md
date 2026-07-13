@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Afaandii)
-
-</div>
-
 ## 👨🏻‍💻 About Me:
 
 ### Hii 👋 My name is Ahmad Afandi and I'm a Web Developer
