@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-### Hii 👋 My name is Ahmad Afandi and I'm a Fullstack Developer
+### Hii There 👋 My name is Ahmad Afandi and I'm a Fullstack Developer
 
 ---
 
