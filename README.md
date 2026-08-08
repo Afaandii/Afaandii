@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://giphy.com" alt="Golang Gopher Coding" />
+  <img height="150" src="https://githubusercontent.com" alt="Gopher Typing" />
 </div>
 
 ###
