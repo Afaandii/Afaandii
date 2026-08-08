@@ -1,9 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-<div align="center">
-  <img height="150" src="https://githubusercontent.com" alt="Gopher Typing" />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXYxcjF4NWc5azhqMGQxcmZ4cDg0a3g2MXU4Y2ppOGVsM2Vzb2hvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/en4M5qpoxaOyUcDmYU/giphy.gif"  />
 </div>
 
 ###
