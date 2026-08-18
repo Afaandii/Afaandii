@@ -7,7 +7,18 @@
 
 ## About Me
 
-### Hii There 👋 My name is Ahmad Afandi and I'm a Fullstack Developer specializing in backend systems
+```go
+type AboutMe struct {
+	Role    string
+	Focus   string
+	Passion string
+}
+
+ahmad := AboutMe{
+	Role:    "Fullstack Developer",
+	Focus:   "Backend Systems",
+	Passion: "Building scalable web applications and exploring modern tech",
+}
 
 ## Tech Stack
 
@@ -38,3 +49,4 @@
 </picture>
 
 ###
+```
