@@ -8,7 +8,7 @@
 ## About Me
 
 ```go
-ahmad := map[string]string{
+Afaandii := map[string]string{
 	"role":    "Fullstack Developer",
 	"focus":   "Backend Systems",
 	"passion": "Building scalable web applications and exploring modern tech",
