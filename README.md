@@ -10,7 +10,7 @@
 ```go
 ahmad := map[string]string{
 	"role":    "Fullstack Developer",
-	"focus":   "Backend Systems & Microservices",
+	"focus":   "Backend Systems",
 	"passion": "Building scalable web applications and exploring modern tech",
 }
 ```
@@ -44,11 +44,3 @@ ahmad := map[string]string{
 </picture>
 
 ###
-
-```
-
-```
-
-```
-
-```
