@@ -13,6 +13,7 @@ ahmad := map[string]string{
 	"focus":   "Backend Systems & Microservices",
 	"passion": "Building scalable web applications and exploring modern tech",
 }
+```
 
 ## Tech Stack
 
@@ -43,6 +44,8 @@ ahmad := map[string]string{
 </picture>
 
 ###
+
+```
 
 ```
 
