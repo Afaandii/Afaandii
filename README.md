@@ -8,18 +8,11 @@
 ## About Me
 
 ```go
-type AboutMe struct {
-	Role    string
-	Focus   string
-	Passion string
+ahmad := map[string]string{
+	"role":    "Fullstack Developer",
+	"focus":   "Backend Systems & Microservices",
+	"passion": "Building scalable web applications and exploring modern tech",
 }
-
-ahmad := AboutMe{
-	Role:    "Fullstack Developer",
-	Focus:   "Backend Systems",
-	Passion: "Building scalable web applications and exploring modern tech",
-}
-```
 
 ## Tech Stack
 
@@ -50,6 +43,8 @@ ahmad := AboutMe{
 </picture>
 
 ###
+
+```
 
 ```
 
