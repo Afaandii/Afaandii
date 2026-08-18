@@ -19,6 +19,7 @@ ahmad := AboutMe{
 	Focus:   "Backend Systems",
 	Passion: "Building scalable web applications and exploring modern tech",
 }
+```
 
 ## Tech Stack
 
@@ -49,4 +50,7 @@ ahmad := AboutMe{
 </picture>
 
 ###
+
+```
+
 ```
